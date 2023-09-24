@@ -5,7 +5,7 @@ A chat App Using MERN Stack And Stock.io.
 ![Alt text](Images/login.png)
 ![Alt text](Images/register.png)
 ![Alt text](Images/loader.png)
-![Alt text](Images/choose_avatar.png)
+![Alt text](Images/choose avatar.png)
 ![Alt text](Images/welcome.png)
 ![Alt text](Images/chat.png)
 
